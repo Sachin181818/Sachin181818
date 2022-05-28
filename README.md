@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahin</h1>
+<h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin181818&label=Profile%20views&color=0e75b6&style=flat" alt="sachin181818" /> </p>
@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sachin smp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin smp" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sachinsmp78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sachinsmp78" height="30" width="40" /></a>
-<a href="https://fb.com/sachin s m patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin s m patil" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin smp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin smp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachin-smp-30a0a01b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin smp" height="30" width="40" /></a>
+<a href="[https://codesandbox.com/sachinsmp78](https://codesandbox.io/dashboard/home?workspace=dd59061e-3834-42f3-9db4-144886510bc9)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sachinsmp78" height="30" width="40" /></a>
+<a href="https://m.facebook.com/sachin.smp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin s m patil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sachinsmp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin smp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
