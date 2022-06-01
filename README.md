@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">Passionate Full Stack Web Developer</h3>
+<h3 align="center">Passionate Full Stack Web Developer</h3
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.vantagecircle.com%2Fcontent%2Fimages%2F2020%2F08%2Ftechnology-in-the-workplace.png&imgrefurl=https%3A%2F%2Fblog.vantagecircle.com%2Ftechnology-in-the-workplace%2F&tbnid=FtPHRkWFn7MKoM&vet=12ahUKEwjQyLju44z4AhWq_TgGHfxRBJAQMygSegUIARDhAQ..i&docid=85a8pTGS6dmWeM&w=681&h=382&q=computer%20work%20tech&ved=2ahUKEwjQyLju44z4AhWq_TgGHfxRBJAQMygSegUIARDhAQ" alt="my" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin181818&label=Profile%20views&color=0e75b6&style=flat" alt="sachin181818" /> </p>
 
