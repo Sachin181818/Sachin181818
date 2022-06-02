@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3
- 
- ![animation  align="center"](https://user-images.githubusercontent.com/99666763/171703675-224c05b4-89a1-4120-8e8a-eddbc5af8d6b.jpg)
-
+ <p align="center">
+ ![animation](https://user-images.githubusercontent.com/99666763/171703675-224c05b4-89a1-4120-8e8a-eddbc5af8d6b.jpg)
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin181818&label=Profile%20views&color=0e75b6&style=flat" alt="sachin181818" /> </p>
 
