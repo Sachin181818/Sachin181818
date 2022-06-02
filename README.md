@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">Passionate Full Stack Web Developer</h3
- <div>
+ 
  ![animation](https://user-images.githubusercontent.com/99666763/171703675-224c05b4-89a1-4120-8e8a-eddbc5af8d6b.jpg)
-</div>
 
+<h1>About Me</h1>
+<p>I am a Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin181818&label=Profile%20views&color=0e75b6&style=flat" alt="sachin181818" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin181818" alt="sachin181818" /></a> </p>
