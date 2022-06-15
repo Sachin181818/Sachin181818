@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin181818" alt="sachin181818" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sachinsmp2" target="blank"><img src="https://img.shields.io/twitter/follow/sachinsmp2?logo=twitter&style=for-the-badge" alt="sachinsmp2" /></a> </p>
+
 - 🔭 I’m currently working on [Node.js](MongoDB)
 
 - 🌱 I’m currently learning **Node.js MongoDB Express.js**
